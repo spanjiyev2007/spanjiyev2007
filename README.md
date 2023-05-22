@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://rishavchanda.io)
  <h1 align="center">Hi 👋, I'm Sardorbek</h1>
 <h3 align="center">Aspiring frontend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="480" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" >
