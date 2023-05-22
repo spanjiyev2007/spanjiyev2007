@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://rishavchanda.io)
  <h1 align="center">Hi 👋, I'm Sardorbek</h1>
 <h3 align="center">Aspiring frontend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" >
+<img align="right" alt="Coding" width="480" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spanjiyev2007&label=Profile%20views&color=0e75b6&style=flat" alt="spanjiyev2007" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sardorbekp68218" target="blank"><img src="https://img.shields.io/twitter/follow/sardorbekp68218?logo=twitter&style=for-the-badge" alt="sardorbekp68218" /></a> </p>
